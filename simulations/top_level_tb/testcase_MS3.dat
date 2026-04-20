@@ -1,0 +1,30 @@
+rst_sim
+
+gpi_sim 00 00 C0 00
+
+#set note
+
+uar_sim 90 01
+uar_sim 11 01
+uar_sim 22 01
+
+uar_sim 90 01
+uar_sim 33 01
+uar_sim 44 01
+
+uar_sim 90 01
+uar_sim 55 01
+uar_sim 66 01
+
+uar_sim 90 01
+uar_sim 55 01
+uar_sim 66 01
+
+uar_sim 90 01
+uar_sim 77 01
+uar_sim 88 01
+
+uar_sim 90 01
+uar_sim 99 01
+uar_sim aa 01
+

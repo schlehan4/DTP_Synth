@@ -1,0 +1,54 @@
+rst_sim
+
+#set note
+uar_sim 90 01
+uar_sim 11 01
+uar_sim 22 01
+
+uar_sim 90 01
+uar_sim 33 01
+uar_sim 44 01
+
+uar_sim 90 01
+uar_sim 55 01
+uar_sim 66 01
+
+uar_sim 90 01
+uar_sim 55 01
+uar_sim 66 01
+
+uar_sim 90 01
+uar_sim 77 01
+uar_sim 88 01
+
+uar_sim 90 01
+uar_sim 99 01
+uar_sim aa 01
+
+uar_sim 90 01
+uar_sim bb 01
+uar_sim cc 01
+
+uar_sim 90 01
+uar_sim dd 01
+uar_sim ee 01
+
+uar_sim 90 01
+uar_sim ff 01
+uar_sim 12 01
+
+uar_sim 90 01
+uar_sim 34 01
+uar_sim 56 01
+
+#override
+
+uar_sim 90 01
+uar_sim 78 01
+uar_sim 9a 01
+
+#del note
+uar_sim 80 01
+uar_sim ff 01
+uar_sim 12 01
+
